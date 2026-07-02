@@ -65,3 +65,50 @@ h2{
     color: aqua;
 }
 ```
+
+## Universal property
+ 
+ ```css
+    <style>
+
+         *{
+            color: green;
+         }
+   </style>
+   ```
+   ###  isse pure page me style hojeygi jo deng
+
+
+   # Selectors
+
+   ## 1. Id Selectors
+   ## 2. Class Selectors
+
+   ### ID Selectors
+   
+   ```css 
+
+<style>
+
+         #hello{
+            color: hotpink;
+         };
+         #bio{
+            color:aqua
+         };
+         #aditya{
+            color: brown;
+         };
+   </style>
+</head>
+<body>
+
+<h1 id="hello">Hello world </h1>
+<p  id="bio">hii my name is shivendra and i  am fullstack devloper</p>
+ <h2  id="aditya">I am Aditya</h2>
+
+</body>
+```
+
+### 1. id unique honi chaiye 
+### 2. id ko # se access karke style wagera karte hai
