@@ -2,7 +2,7 @@
 
 ## color property
 
-``
+```css
 <style>
 
         h1{
@@ -18,17 +18,50 @@
     
 <h1>Hello world </h1>
 <p>hii my name is shivendra and i  am fullstack devloper</p>
-``
+```
 
 ## Inline Style 
 
-![alt text](image-1.png)
+```css
+<p style="color: blue;">hii my name is shivendra and i  am fullstack devloper</p>
+ <h2 style="color: pink;">I am Aditya</h2>
+ ```
 
 
 ## Internal Style 
 
-![alt text](image-2.png)
+```css
+
+<style>
+
+        h1{
+         color: red;
+        }
+         p{
+            color: pink;
+         }
+
+   </style>
+   ```
+
 
 ## External Css 
 
-![alt text](image-3.png) ![alt text](image-4.png)
+## 1. create a alag se 
+## 2. link file 
+
+```css
+
+h1{
+    color: red;
+}
+
+p{
+    color: rgb(0, 182, 24);
+    background-color: red
+}
+
+h2{
+    color: aqua;
+}
+```
