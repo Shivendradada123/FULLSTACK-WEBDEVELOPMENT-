@@ -159,4 +159,16 @@ h2{
 ### 1. group selectors se ham kahi cheez ko ek sath style de satke hai chaie kisi bhi type ke selectotrs ho ek sath use ho jayega 
 
 
-## Descendant Selectotrs
+
+# Color System
+
+## RGB Color System
+
+```css
+
+
+    <div style="color: rgb(250, 0, 0);">shivendra</div>
+    <div style="color: rgb(0, 250, 0);">Shubham</div>
+    <div style="color: rgb(0, 0, 250);">   Aditya</div>
+    <div style="color: rgb(25, 69, 49);">   Dhanraj</div>
+```
