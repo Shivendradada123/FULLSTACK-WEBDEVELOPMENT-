@@ -172,3 +172,40 @@ h2{
     <div style="color: rgb(0, 0, 250);">   Aditya</div>
     <div style="color: rgb(25, 69, 49);">   Dhanraj</div>
 ```
+
+
+## Heigh & Width
+ 
+ ```css
+  <style>
+
+
+            .div{
+                 height: 95px;
+                 width: 95px;
+                 margin: 10px
+            }
+
+            #div1{
+                background-color: red;
+                color: pink;
+            }
+
+            #div2{
+                color: blue;
+                background-color: green;
+            }
+    
+
+            #div3{
+                color: gold;
+                background-color:  aqua;
+            }
+    
+
+    </style>
+                <div id="div1" class="div">Shivendra</div>
+                <div id="div2" class="div">Aditya</div>
+                <div id="div3" class="div">Shubham</div>
+                 
+                 ```
