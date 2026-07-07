@@ -209,3 +209,29 @@ h2{
                 <div id="div3" class="div">Shubham</div>
                  
                  ```
+
+               
+
+              
+ # Background Image PEoperty
+
+ ```css
+
+  <style>
+                #icon{
+
+                
+                        height: 50px;
+                     width: 50px;
+                     background-image: url(download.png);
+                     background-size: contain;
+                    background-repeat: no-repeat;
+                }
+
+    </style>
+
+<body>
+            <div id="icon"></div>
+
+    </body>
+    ```
